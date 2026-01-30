@@ -27,3 +27,7 @@ scikit-learn
 
 # UI
 streamlit
+
+
+pydantic
+pydantic[email]
