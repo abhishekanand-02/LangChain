@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-community
 
 # OpenAI Integration
 langchain-openai
@@ -31,3 +32,8 @@ streamlit
 
 pydantic
 pydantic[email]
+
+pypdf
+beautifulsoup4
+selenium
+unstructured
