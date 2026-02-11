@@ -2,3 +2,4 @@
 venv/
 __pycache__/
 venv_langChain/
+chroma_db/
